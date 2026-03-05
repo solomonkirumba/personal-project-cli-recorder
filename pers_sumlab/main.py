@@ -55,7 +55,7 @@ def main():
             service.complete_task(project, task)
         
         elif choice == "9":
-            print("Later.")
+            print("Adios")
             sys.exit()
         
         else:
